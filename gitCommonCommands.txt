@@ -1,0 +1,22 @@
+git config --global user.name 'User'
+git config --global user.email 'UserEmail'
+
+git add UserFile.Extension
+
+git status
+
+git rm --cached UserFile.Extension
+
+git commit--- git commit -m
+Click i ---
+Esc	---
+:wq	---
+
+#ignore files
+touch .gitignore
+touch log.txt
+
+#branches
+
+
+
