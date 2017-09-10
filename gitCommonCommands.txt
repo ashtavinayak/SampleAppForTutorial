@@ -17,6 +17,11 @@ touch .gitignore
 touch log.txt
 
 #branches
+git branch BranchName
+git checkout BranchName
+git merge BranchName(same as commit)
 
+#to force the merge to happen.
+--allow-unrelated-histories
 
-
+ 
